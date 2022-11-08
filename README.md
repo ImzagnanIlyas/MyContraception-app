@@ -9,9 +9,15 @@ The app has been developed in an attempt to facilitate :
 3. Keeping record of one’s family medical history, medical appointments, analyses, diagnoses, procedures and notes within the same app.
 
 ## Download
-[![Get it on Google Play](https://user-images.githubusercontent.com/60849617/200421409-56f55d8e-7746-47a0-bbda-d3af7cc85e63.png)](https://play.google.com/store/apps/details?id=com.mycontraception.myapplication)
+[<img height="100" src="https://user-images.githubusercontent.com/60849617/200421409-56f55d8e-7746-47a0-bbda-d3af7cc85e63.png">](https://play.google.com/store/apps/details?id=com.mycontraception.myapplication)
 
-*The iOS version will be available soon on the App Store*
+**The iOS version will be available soon on the App Store*
+
+## Technologies
+
+| [<img height="50" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png">](https://dart.dev/) | [<img height="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png">](https://flutter.dev/) | [<img height="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png">](https://firebase.google.com/)
+----- | ----- | -----
+Dart | Flutter | Firebase
 
 ## Some Screenshots
 
